@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ulrikaha
-- 👀 I’m interested in learning HTML, CSS, JavaScript and more. 
 - 🌱 I’m currently a student at KYH - Front end Developer.
 
 
