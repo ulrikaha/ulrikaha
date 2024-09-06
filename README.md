@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ulrikaha
-- 🌱 I’m currently a Front end Developer student at KYH in Stockholm
+- 🌱Junior Front end Developer in Stockholm
 
 
 <!---
